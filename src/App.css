@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.main {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  width: 50%;
+  max-width: 50%;
+  height: 200vh;
+  max-height: 100vh;
+  overflow-y: scroll;
+  background-color: antiquewhite;
+}
+
+.right {
+  width: 50%;
+  max-width: 50%;
+  height: 100vh;
+  background-color: aqua;
+}
