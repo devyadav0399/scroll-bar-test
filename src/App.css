@@ -18,11 +18,20 @@
   max-height: 100vh;
   overflow-y: scroll;
   background-color: antiquewhite;
+  padding: 50px;
+  text-align: justify;
 }
 
 .right {
   width: 50%;
   max-width: 50%;
   height: 100vh;
-  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.right h1 {
+  text-align: center;
 }

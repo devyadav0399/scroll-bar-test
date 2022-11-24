@@ -109,7 +109,7 @@ function App() {
             Ea aperiam explicabo deserunt repellendus magnam nostrum dolore esse delectus, totam, aspernatur perspiciatis dicta? Ducimus quaerat quo perspiciatis sunt soluta! Deserunt aliquam assumenda similique architecto quos alias non labore sunt.
         </div>
         <div className="right">
-
+          <h1> Scroll Test App</h1>
         </div>
       </div>
     </div>
